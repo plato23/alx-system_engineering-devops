@@ -1,2 +1,2 @@
 #!/bin/bash
-tmp/$ ./0-current_working_directory/root/alx-system_engineering-devops/0x00-shell_basics $
+dir=$1/cd $dir/tmp=$(pwd -p)/echo $tmp
