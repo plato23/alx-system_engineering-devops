@@ -1,2 +1,2 @@
-#!/bin/bash 
-chmode 751 my_dir 
+#!/bin/bash
+chmode 751 my_dir
