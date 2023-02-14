@@ -1,2 +1,2 @@
 #!/bin/bash
-grep A c input | tr 'A' 'Z' 'c' 'e'
+grep A c input | tr 'AZ' 'ce'
